@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">步數產生器</string>
+
+    <string name="status_checking">正在檢查 Health Connect…</string>
+    <string name="status_unavailable">此裝置未安裝 Health Connect，請先安裝</string>
+    <string name="status_need_permission">尚未授權寫入步數權限</string>
+    <string name="status_need_activity_recognition">還需要「身體活動」權限才能啟動背景服務</string>
+    <string name="status_ready">已授權，服務執行中，可從通知列操作</string>
+    <string name="btn_grant_and_start">授權並開始</string>
+    <string name="btn_install_health_connect">前往安裝 Health Connect</string>
+
+    <string name="notif_channel_name">步數產生器服務</string>
+    <string name="notif_title">步數產生器</string>
+    <string name="notif_status_running">執行中・已產生 %1$d 步</string>
+    <string name="action_exit">結束</string>
+</resources>
